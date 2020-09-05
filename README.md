@@ -1,6 +1,6 @@
 # Ry's GIT tutorial
 
-This repository contains "Ry's GIT tutorial" and associated files, as they are not hosted by Ryan Hodson himself naymore. I added a compilation of the "Quick References" and added a couple of useful links to GIT related stuff.
+This repository contains "Ry's GIT tutorial" and associated files, as they are not hosted by Ryan Hodson himself anymore. I also created a compilation of the "Quick References" and added a couple of useful links to GIT related stuff.
 
 - The tutorial itself was downloaded from [smashwords](https://www.smashwords.com/books/view/498426 "Ry's GIT tutorial").
 - I also [tracked down](https://hamwaves.com/collaboration/doc/rypress.com/index.html "The ZIp files") the mentioned ZIP files with the demo repository in all the stages.
