@@ -10,3 +10,4 @@ This repository contains "Ry's GIT tutorial" and associated files, as they are n
 - Git GUI [Sourcetree](https://www.sourcetreeapp.com/ "Sourcetree")
 - [Git Repo cleaner]https://rtyley.github.io/bfg-repo-cleaner/ "Git repo Cleaner")
 - [Github flow model](https://guides.github.com/introduction/flow/ "Github flow")
+- [Version Control by EXAMPLE](https://ericsink.com/vcbe/html/index.html "Version Control by EXAMPLE")
