@@ -8,5 +8,5 @@ This repository contains "Ry's GIT tutorial" and associated files, as they are n
 - Have a look at [gitviz](https://github.com/riezebosch/gitviz "gitviz"), a graphical representation of your repository, great for visualizing and learning the inner workings of git
 - Want to practice? Have a look at [Learn Git Branching](https://learngitbranching.js.org/ "Learn Git Branching")
 - Git GUI [Sourcetree](https://www.sourcetreeapp.com/ "Sourcetree")
-- [Git Repo cleaner]https://rtyley.github.io/bfg-repo-cleaner/ "Git repo Cleaner")
+- [Git Repo cleaner](https://rtyley.github.io/bfg-repo-cleaner/ "Git repo Cleaner")
 - [Github flow model](https://guides.github.com/introduction/flow/ "Github flow")
