@@ -1,4 +1,4 @@
-# ry-s-git-tutorial
+# Ry's GIT tutorial
 
 This repository contains "Ry's GIT tutorial" and associated files, as they are not hosted by Ryan Hodson himself naymore. I added a compilation of the "Quick References" and added a couple of useful links to GIT related stuff.
 
